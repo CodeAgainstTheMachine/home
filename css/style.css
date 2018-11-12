@@ -1,0 +1,63 @@
+body {
+}
+
+header.masthead {
+    background: url(../img/catmbackground.png);
+    position: relative;
+    overflow: hidden;
+    padding-top: calc(7rem + 72px);
+    padding-bottom: 7rem;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: scroll;
+    background-size: cover;
+  }
+
+  .btn-primary {
+      background-color: #562c72 !important;
+      border-color: #562c72 !important;
+  }
+  
+  .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+      background-color: #000000 !important;
+      border-color: #000000 !important;
+  }
+  
+  .btn-primary:focus {
+    background-color: #000000 !important;
+    border-color: #000000 !important;
+}
+  
+  .btn-secondary {
+      background-color: #562c72 !important;
+      border-color: #562c72 !important;
+  }
+  
+  .btn-secondary:active, .btn-secondary:focus, .btn-secondary:hover {
+    background-color: #000000 !important;
+    border-color: #000000 !important;
+}
+  
+  .btn-secondary:focus {
+    background-color: #000000 !important;
+    border-color: #000000 !important;
+}
+
+
+header.masthead h1 {
+    font-size: 2rem;
+    font-family: 'Impact', Arial, sans-serif;
+    color: #000000;
+    -webkit-text-stroke: 3px #d49cfc;
+}
+
+h1{
+  font-family: 'Impact';
+  font-weight: normal !important;
+}
+
+header.masthead h2 {
+    font-size: 8px;
+    font-family: Arial, sans-serif;
+    font-weight: normal !important;
+  }
