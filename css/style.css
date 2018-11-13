@@ -26,7 +26,10 @@ header.masthead {
   .btn-primary:focus {
     background-color: #000000 !important;
     border-color: #000000 !important;
+    -webkit-box-shadow: 0 0 0 0.2rem #562c72;
+    box-shadow: 0 0 0 0.2rem #562c72;    
 }
+
   
   .btn-secondary {
       background-color: #562c72 !important;
